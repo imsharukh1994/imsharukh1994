@@ -1,5 +1,5 @@
 Hi 👋 I am Shaharukh!
-I am a System Engineer in Mumbai, India. Im looking for Web Developer or Front end Developer.
+I am a System Engineer in Mumbai, India. Im looking for Web Developer or Front end Developer Job.
 
 - 👀 I’m interested in Coding and programme
 - 🌱 I’m currently learning Job as web development
