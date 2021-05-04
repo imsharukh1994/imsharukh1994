@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @imsharukh1994
+Hi 👋 I am Shaharukh!
+I am a System Engineer in Mumbai, India. Im looking for Web Developer or Front end Developer.
+
 - 👀 I’m interested in Coding and programme
 - 🌱 I’m currently learning Job as web development
 - 💞️ I’m looking to collaborate on ...
