@@ -6,6 +6,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Email ID ( mithagaris@gmail.com)</p>
 
+Resume : [Shaharukh Mithagari Resume (2).pdf](https://github.com/imsharukh1994/imsharukh1994/files/7815985/Shaharukh.Mithagari.Resume.2.pdf)
+
+
+
 
 
 <!---
