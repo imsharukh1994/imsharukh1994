@@ -16,12 +16,6 @@ Online Resume : https://wearther-app.000webhostapp.com/
 
 ## Shaharukh Mithagari - Web Developer / Front-End Developer
 
-### About Me
-- 👀 Interests: I am passionate about coding and programming.
-- 🌱 Learning: Currently focused on learning Web Development.
-- 💞️ Collaboration: Open to collaborating on projects and opportunities related to web development.
-- 📫 Reach Me: You can reach me via email at mithagaris@gmail.com.
-
 ### Resume
 - 📄 Download my Resume: [Shaharukh Mithagari Resume (2).pdf](https://github.com/imsharukh1994/imsharukh1994/files/7815985/Shaharukh.Mithagari.Resume.2.pdf)
 - 🌐 View my Online Resume: [Shaharukh's Online Resume](https://wearther-app.000webhostapp.com/)
