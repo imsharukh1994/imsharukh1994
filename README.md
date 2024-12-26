@@ -15,8 +15,6 @@ Online Resume : https://wearther-app.000webhostapp.com/
 - [Pull Shark](https://github.com/users/imsharukh1994/achievements/pull-shark)
 
 ## Shaharukh Mithagari - Web Developer / Front-End Developer
-👋 Hi, I'm Shaharukh Mithagari!
-I am a System Engineer based in Mumbai, India, and I am currently looking for a position as a Web Developer or Front-End Developer.
 
 ### About Me
 - 👀 Interests: I am passionate about coding and programming.
