@@ -9,8 +9,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=imsharukh1994&theme=dark)](https://git.io/streak-stats)
 
 ## Achievements
-- [YOLO](https://github.com/users/imsharukh1994/achievements/yolo)
-- [Pull Shark](https://github.com/users/imsharukh1994/achievements/pull-shark)
+
+Here are some of my GitHub achievements:
+
+- [Quickdraw](https://github.com/users/imsharukh1994/achievements/quickdraw)
+- YOLO
+- Pull Shark
 
 ## Shaharukh Mithagari - Web Developer / Front-End Developer
 
