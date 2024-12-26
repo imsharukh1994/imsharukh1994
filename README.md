@@ -12,9 +12,9 @@
 
 Here are some of my GitHub achievements:
 
+- [YOLO](https://github.com/users/imsharukh1994/achievements/yolo)
+- [Pull Shark](https://github.com/users/imsharukh1994/achievements/pull-shark) x2
 - [Quickdraw](https://github.com/users/imsharukh1994/achievements/quickdraw)
-- YOLO
-- Pull Shark
 
 ## Shaharukh Mithagari - Web Developer / Front-End Developer
 
