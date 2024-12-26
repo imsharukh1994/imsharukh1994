@@ -22,14 +22,40 @@ Here are some of my GitHub achievements:
 - 📄 Download my Resume: [Shaharukh Mithagari Resume (2).pdf](https://github.com/imsharukh1994/imsharukh1994/files/7815985/Shaharukh.Mithagari.Resume.2.pdf)
 - 🌐 View my Online Resume: [Shaharukh's Online Resume](https://wearther-app.000webhostapp.com/)
 
-### Skills
-- **Web Development:** HTML, CSS, JavaScript, React, Vue.js, Svelte, Node.js
-- **Mobile Development:** Flutter, Android
-- **Databases:** MongoDB, MSSQL, PostgreSQL
-- **Backend:** GraphQL, RabbitMQ
-- **Machine Learning:** TensorFlow
-- **DevOps:** Docker, Cypress
-- **Search Engines:** Solr
+## Skills
+
+### Web Development  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+
+### Mobile Development  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)  
+
+### Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+
+### Backend  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  
+
+### Machine Learning  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+
+### DevOps  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)  
+
+### Search Engines  
+![Solr](https://img.shields.io/badge/-Solr-D9411E?style=flat&logo=apache-solr&logoColor=white)  
+
 
 ## Languages and Tools
 
