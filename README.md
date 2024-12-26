@@ -8,8 +8,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imsharukh1994&theme=dark)](https://git.io/streak-stats)
 
-Online Resume : https://wearther-app.000webhostapp.com/
-
 ## Achievements
 - [YOLO](https://github.com/users/imsharukh1994/achievements/yolo)
 - [Pull Shark](https://github.com/users/imsharukh1994/achievements/pull-shark)
