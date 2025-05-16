@@ -1,5 +1,5 @@
 <h1>Hi 👋 I am Shaharukh Mithagari!</h1>
-<p> I am a System admin in Mumbai, India. I love to code and find new thing issue, bugs and solve it where are from interest and languages, I know
+<p> Almost 7+ yrs experience in troubleshooting, automation & system stability. Passionate about tech support, scripting & performance optim
 
 - 👀 I’m interested in Coding and programme
 - 🌱 I’m currently learning Job as web development
